@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Auto Panel.PcbDoc]
+   Generated File[Auto_OBD.TXT]
+   Generated File[Auto_OBD.LDP]
+   Generated File[Auto_OBD.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:35:31 AM On 11/30/2023
